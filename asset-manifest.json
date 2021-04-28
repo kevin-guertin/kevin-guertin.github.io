@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kevin-guertin.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/kevin-guertin.github.io/static/js/main.3bcec4c5.chunk.js",
+    "main.js.map": "/kevin-guertin.github.io/static/js/main.3bcec4c5.chunk.js.map",
+    "runtime-main.js": "/kevin-guertin.github.io/static/js/runtime-main.f4304bb2.js",
+    "runtime-main.js.map": "/kevin-guertin.github.io/static/js/runtime-main.f4304bb2.js.map",
+    "static/js/2.b213b599.chunk.js": "/kevin-guertin.github.io/static/js/2.b213b599.chunk.js",
+    "static/js/2.b213b599.chunk.js.map": "/kevin-guertin.github.io/static/js/2.b213b599.chunk.js.map",
+    "static/js/3.e368dd6f.chunk.js": "/kevin-guertin.github.io/static/js/3.e368dd6f.chunk.js",
+    "static/js/3.e368dd6f.chunk.js.map": "/kevin-guertin.github.io/static/js/3.e368dd6f.chunk.js.map",
+    "index.html": "/kevin-guertin.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/kevin-guertin.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b213b599.chunk.js.LICENSE.txt": "/kevin-guertin.github.io/static/js/2.b213b599.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4304bb2.js",
+    "static/js/2.b213b599.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3bcec4c5.chunk.js"
+  ]
+}
